@@ -1,0 +1,18 @@
+.table {
+  width: 100% !important;
+}
+
+input.error {
+  border: 1px solid #dc3545;
+}
+
+.error {
+  font-size: 1rem !important;
+  width: 100% !important;
+  color: #dc3545 !important;
+}
+
+.borderless th,
+.borderless td {
+  border: none;
+}
