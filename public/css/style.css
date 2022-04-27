@@ -1,0 +1,24 @@
+.banner {
+    background: url("https://i.pinimg.com/originals/cb/6d/d6/cb6dd63966efb66a49982d5c9f5d4da2.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: aliceblue;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.kontak {
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: aliceblue;
+}
+
+.kontak2 img {
+    height: auto;
+    width: 50px;
+}
